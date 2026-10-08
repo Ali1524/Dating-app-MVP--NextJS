@@ -155,7 +155,7 @@ export default function NotificationDropdown({
             <Bell className="w-12 h-12 text-gray-300 mx-auto mb-3" />
             <p className="text-gray-500 font-medium">No notifications yet</p>
             <p className="text-sm text-gray-400 mt-1">
-              We'll notify you when something happens
+              We&apos;ll notify you when something happens
             </p>
           </div>
         ) : (

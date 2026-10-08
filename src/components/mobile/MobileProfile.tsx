@@ -251,7 +251,7 @@ export default function MobileProfile() {
           <div className="text-center py-12">
             <Tag className="w-12 h-12 text-gray-300 mx-auto mb-3" />
             <p className="text-gray-500 font-medium">No tagged posts</p>
-            <p className="text-sm text-gray-400 mt-1">Posts you're tagged in will appear here</p>
+            <p className="text-sm text-gray-400 mt-1">Posts you&apos;re tagged in will appear here</p>
           </div>
         )}
       </div>
